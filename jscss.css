@@ -1,0 +1,55 @@
+body {
+
+  }
+  .bg1{
+  position: absolute;
+  z-index:1;
+  position: fixed;
+ 
+  }
+  form{
+    position: absolute;
+    z-index:2;
+    width: 100%;  
+    min-height: 100vh;
+    
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: whitesmoke;
+    border-radius: 20px;
+   
+  
+
+  }
+.div-form{
+  width: 790px;
+  background: #fff;
+  padding: 10px 55px 90px 55px;
+  overflow: hidden;
+}
+
+
+.form-title{
+display: block;
+font-family: Poppins-Bold;
+font-size: 39px;
+color: #333333;
+
+text-align: center;
+padding-bottom: 20px;}
+
+.lab1{
+  display: inline;
+}
+.btn-Submit{
+ 
+  margin-top: 10px;
+  background-color: pink;
+border-style: double;
+border-radius: 10px;
+}
+
+.vild-input{
+  color: red;
+}
